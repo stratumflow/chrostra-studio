@@ -3,3 +3,5 @@
 </p>
 
 # chrostra-studio
+
+Chrostra Studioダウンロード用リポジトリ
